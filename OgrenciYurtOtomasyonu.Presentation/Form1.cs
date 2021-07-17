@@ -15,6 +15,7 @@ using System.Windows.Forms;
 
 namespace OgrenciYurtOtomasyonu.Presentation
 {
+    //Github a yüklendi
     public partial class Form1 : Form
     {
         public Form1()
